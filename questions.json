@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Who wrote the bug you're debugging right now?",
+    "options": [
+      "The compiler",
+      "Aliens",
+      "You, 3 months ago",
+      "The intern"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which single logic gate can build ANY digital circuit?",
+    "options": [
+      "AND",
+      "OR",
+      "XOR",
+      "NAND"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Your code works but you have no idea why. What do you do?",
+    "options": [
+      "Investigate deeply",
+      "Touch nothing, push to prod",
+      "Write documentation",
+      "Ask for a code review"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In floating point (IEEE 754), what is 0.1 + 0.2?",
+    "options": [
+      "Exactly 0.3",
+      "0.30000000000000004",
+      "0.4",
+      "Syntax error"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Assignment due at 11:59 PM. When do you start?",
+    "options": [
+      "The week it's given",
+      "11:58 PM",
+      "Never, I submit vibes",
+      "What assignment?"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In JavaScript, typeof NaN returns...?",
+    "options": [
+      "\"number\"",
+      "\"NaN\"",
+      "\"undefined\"",
+      "\"error\""
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What does an AI say when it doesn't know the answer?",
+    "options": [
+      "\"I don't know\"",
+      "Confidently makes something up",
+      "Shuts down",
+      "Calls your mom"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What's the core loop of an AI agent?",
+    "options": [
+      "Train → Test → Deploy",
+      "Reason → call a tool → observe result → repeat",
+      "Prompt → Print → Pray",
+      "Read → Write → Reboot"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "You tell your AI agent \"fix the bug\" and it nukes the project. Whose fault?",
+    "options": [
+      "The AI's",
+      "Yours, for skipping git",
+      "Mercury retrograde",
+      "The WiFi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Can a program exist that correctly predicts if ANY program halts?",
+    "options": [
+      "Yes, with enough GPUs",
+      "No, Turing proved it's impossible",
+      "Yes, but only in Python",
+      "Only on a quantum computer"
+    ],
+    "correctIndex": 1
+  }
+]

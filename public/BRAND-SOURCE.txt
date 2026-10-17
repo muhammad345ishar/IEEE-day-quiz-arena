@@ -1,0 +1,12 @@
+IEEE Computer Society logo
+Source: https://www.computer.org/
+Retrieved: 2026-10-17
+Asset: ieee-cs-logo.svg
+
+The orange IEEE Computer Society trademark logo is sourced from the official
+Computer Society website. The SVG is served locally by this event application;
+the application makes no runtime request to computer.org for branding.
+
+IEEE and IEEE Computer Society names and marks belong to their respective
+owners. This application is for the IEEE Computer Society chapter's IEEE Day
+event at PIEAS. Use the official mark without distorting or redrawing it.
