@@ -5,3 +5,4 @@ dist/
 *.log
 artifacts/
 .DS_Store
+.demo-data/
